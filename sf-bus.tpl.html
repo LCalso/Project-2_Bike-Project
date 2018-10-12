@@ -1,0 +1,13 @@
+<div class="container-fluid">
+  <div class="header-controls" class="row">
+    <form class="form-inline text-right">
+      <bus-filter-input filtered-buses="filteredBuses"></bus-filter-input>
+    </form>
+  </div>
+
+  <bus-map
+    data="busData"
+    filtered-buses="filteredBuses"
+    topo-file="{{topo}}"
+  ></bus-map>
+</div>
