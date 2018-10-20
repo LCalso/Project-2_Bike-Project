@@ -1,4 +1,4 @@
-# Project-2_San-Francisco
+# Project-2_San-Francisco_Part1
 Bikes! website displays bike parking facilities in San Francisco.
 
 To launch Bikes! website locally, run:
