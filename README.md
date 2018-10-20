@@ -1,4 +1,5 @@
 # Project-2_San-Francisco
+Bikes! website displays bike parking facilities in San Francisco.
 
 To launch Bikes! website locally, run:
 npm install
